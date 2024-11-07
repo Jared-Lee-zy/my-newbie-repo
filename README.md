@@ -1,2 +1,2 @@
-# my-newbie-repo
-this is a simple repo.
+# assignment-1
+this is my assignment repo.
